@@ -12,6 +12,7 @@ function NavigationBar() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
             <Nav.Link href="#home">Resume</Nav.Link>
+            <Nav.Link href="https://www.linkedin.com/in/angelag6617/">Linkdin</Nav.Link>
             <Nav.Link href="#link">About Me</Nav.Link>
             <Nav.Link href="#link">Projects</Nav.Link>
             <Nav.Link href="#link">Contact</Nav.Link>
