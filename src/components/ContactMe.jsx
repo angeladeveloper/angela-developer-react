@@ -15,7 +15,7 @@ function ContactMe() {
           <Card.Text>
           Feel free to reach out and I will get back to you ASAP!
           </Card.Text>
-          <Button variant='dark' href='https://github.com/angeladeveloper/Weather-Dashboard'>GitHub</Button>
+          <Button variant='dark' href='https://github.com/angeladeveloper'>GitHub</Button>
           <Button variant='light' href='/'>Email</Button>
         </Card.Body>
       </Card>
